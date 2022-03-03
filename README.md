@@ -10,4 +10,6 @@ OpenCV,
 PyautoGUI,
 Mouse,
 PyAudio,
-SpeechRecognition 
+SpeechRecognition, 
+numpy and 
+pyttsx3
